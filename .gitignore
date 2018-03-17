@@ -6,3 +6,6 @@ node_modules
 ncp-debug.log
 npm-debug.log
 build/
+build/server.js.map
+build/server.js
+build/assets.js
